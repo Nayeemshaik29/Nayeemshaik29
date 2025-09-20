@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nayeemshaik29/Nayeemshaik29/main/assets/profile.png" width="160" alt="Profile Picture"/>
-</p> 
+
 
 <h1 align="center">Hi 👋, I'm Shaik Nayeem Basha</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Problem Solver | Cybersecurity Enthusiast</h3>
