@@ -4,7 +4,7 @@
 
 ## 🎯 About Me
 
-> *"Creative problem-solver who loves to find new solutions to tough challenges. Organized and on-time, I get projects done efficiently and effectively. Team player looking to work with others to achieve great results."*
+> *Backend Developer building scalable REST APIs and event-driven systems in Java and Spring Boot, with production experience in Spring Security, JPA/Hibernate, Apache Kafka, Spring Cloud, JWT, and Resilience4j. Brings SIEM-based threat detection experience from active security operations work to design security-conscious backend architecture.*
 
 ---
 
@@ -26,7 +26,14 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧪 Testing & Tools
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔒 Cybersecurity Tools
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
@@ -36,9 +43,10 @@
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🛡️ Security & Architecture
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -54,6 +62,23 @@
 
 <div align="center">
 
+### ⚙️ CI/CD Pipeline: Automated Spring Boot Deployment
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+🔗 **GitHub:** https://github.com/Nayeemshaik29/ci-cd-playground
+
+**🎯 Key Features:**
+- Fully automated pipeline from `git push` to a live, running container on AWS EC2
+- GitHub Actions workflow: Maven build → multi-arch Docker image (Buildx, arm64) → push to Docker Hub → SSH deploy
+- Zero-touch redeploys — stops the old container, pulls the latest image, and starts the new one automatically
+- Debugged and resolved real pipeline failures: Docker Hub token scoping, YAML indentation, working-directory mismatches, and a CPU architecture mismatch (x86_64 CI runner vs ARM64 Graviton EC2 instance)
+- Documented end-to-end with architecture diagrams, a full command reference, and a running list of common CI/CD mistakes and fixes
+
+---
+
 ### 🔐 PRA: Proactive Approach to Secure Backup
 ![Google Drive](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Encryption](https://img.shields.io/badge/Encryption-FF6B6B?style=for-the-badge)
@@ -67,17 +92,18 @@
 
 ---
 
-### 🏨 InstaBook: Hotel Booking Platform
+### 🏨 BookingBlock: Hotel Booking Platform
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe_API-008CDD?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Security-000000?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
+🔗 **GitHub:** https://github.com/Nayeemshaik29/BookingBlock
 
 **🎯 Key Features:**
-- Dynamic hotel reservation system  
-- Stripe payment integration  
-- JWT authentication  
-- Decorator-based pricing engine  
-- Role-based access control  
+- 8 RESTful APIs for hotel reservations, supporting 100+ listings with response times under 150ms
+- Stripe Payment Gateway integration processing 200+ transactions with a 99.5% success rate
+- Decorator Design Pattern for dynamic pricing
+- Optimized Hibernate caching, reducing database calls by 50%  
 
 ---
 
@@ -91,13 +117,9 @@
 🚧 **Status:** Under Process (Kafka integrated, Connections Service in progress)
 
 **🎯 Key Highlights:**
-- Spring Boot microservices with clear domain separation  
-- API Gateway for centralized routing & security  
-- Eureka-based service discovery  
-- Event-driven communication using Apache Kafka  
-- Resilience4j for fault tolerance  
-- Distributed tracing with Zipkin  
-- Centralized logging with ELK Stack  
+- 6 Spring Boot microservices using Spring Cloud Gateway, Netflix Eureka, and JWT, supporting 1,000+ requests/min
+- Apache Kafka event-driven architecture achieving 5,000 events/sec throughput, reducing notification latency from 3s to 500ms
+- Resilience4j Circuit Breaker, Zipkin distributed tracing, and ELK Stack for fault tolerance, monitoring, and centralized logging
 - Database-per-service architecture  
 
 </div>
@@ -144,14 +166,22 @@
 
 ## 💼 Professional Experience
 
-### 🚀 Java Developer Trainee @ Codegnan  
-**05/2025 – Present | Vijayawada**
+### 🚀 Associate Software Engineer @ LTM  
+**June 2026 – Present | Hyderabad, Telangana**
 
-- Core Java, OOP, Collections, Exception Handling  
-- Spring Boot MVC & layered architecture  
-- Hibernate ORM & Spring Data JPA  
-- Spring Security with JWT  
-- Microservices using Eureka & API Gateway  
+- Backend development using Java and Spring Boot, including REST API development and maintenance
+- Worked with SQL databases, debugging application issues, analyzing logs, and troubleshooting
+- Used Git and Postman while participating in code reviews, daily stand-ups, and team collaboration
+- Built and deployed a self-managed CI/CD pipeline (GitHub Actions, Docker, AWS EC2)
+
+---
+
+### 💻 Java Full Stack Trainee @ Student Tribe  
+**January 2026 – June 2026 | Hyderabad, Telangana**
+
+- Independently built backend modules using Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL — full ownership from design through deployment
+- Developed and tested RESTful APIs covering authentication, exception handling, and layered service architecture end-to-end
+- Practiced OOP principles, Git-based version control, and clean-code standards, reviewing peer code and joining daily stand-ups
 
 ---
 
