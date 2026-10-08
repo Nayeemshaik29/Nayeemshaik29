@@ -1,229 +1,297 @@
-# 💫 Hey there! I'm Shaik Nayeem Basha
-
----
-
-## 🎯 About Me
-
-> *Backend Developer building scalable REST APIs and event-driven systems in Java and Spring Boot, with production experience in Spring Security, JPA/Hibernate, Apache Kafka, Spring Cloud, JWT, and Resilience4j. Brings SIEM-based threat detection experience from active security operations work to design security-conscious backend architecture.*
-
----
-
-## 🛠️ Tech Arsenal
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:6DB33F&height=200&section=header&text=Shaik%20Nayeem%20Basha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Microservices%20%E2%80%A2%20Kafka%20%E2%80%A2%20Security&descAlignY=58&descSize=18" width="100%"/>
 
-### 🚀 Frameworks & Technologies
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+25+and+Spring+Boot+4+Backend+Engineer;Event-Driven+Microservices+with+Kafka;Spring+Cloud+-+Eureka+-+Gateway+-+Resilience4j;Security-First+-+SC-200+and+CEH+Certified;Associate+Software+Engineer+at+LTM" alt="Typing SVG" />
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
 
-### 🧪 Testing & Tools
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔒 Cybersecurity Tools
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### 🛡️ Security & Architecture
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C4043?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
-![API Gateway](https://img.shields.io/badge/API_Gateway-4285F4?style=for-the-badge)
+<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bashanayeem79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://komarev.com/ghpvc/?username=Nayeemshaik29&color=1f6feb" alt="profile views"/>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+I'm a **Java Backend Engineer** who builds scalable REST APIs and event-driven microservices with **Spring Boot, Spring Cloud and Apache Kafka**. I care about systems that stay **correct under failure**: retries, duplicate messages, slow dependencies and race conditions.
+
+With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background, I design backends with security built in, not bolted on.
+
+- 🏢 **Associate Software Engineer** at **LTM**, Hyderabad
+- 💘 Currently building: **SoftLaunch**, a Spring Boot 4 microservices dating platform
+- 🌱 Exploring next: **gRPC, WebSockets, Redis GEO and observability**
+- 🎓 **KL University** alumnus
+- 💬 Ask me about: **Spring Boot, Kafka, microservices, API security, CI/CD**
+
+<br clear="right"/>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-### ⚙️ CI/CD Pipeline: Automated Spring Boot Deployment
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br/><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=hibernate" width="48" alt="Hibernate"/><br/><sub><b>Hibernate</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=maven" width="48" alt="Maven"/><br/><sub><b>Maven</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=kafka" width="48" alt="Apache Kafka"/><br/><sub><b>Apache Kafka</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/><sub><b>React</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/><br/><sub><b>Redis</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/><br/><sub><b>GitHub Actions</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=azure" width="48" alt="Microsoft Azure"/><br/><sub><b>Microsoft Azure</b></sub></td>
+  </tr>
+</table>
 
-🔗 **GitHub:** https://github.com/Nayeemshaik29/ci-cd-playground
+</div>
 
-**🎯 Key Features:**
-- Fully automated pipeline from `git push` to a live, running container on AWS EC2
-- GitHub Actions workflow: Maven build → multi-arch Docker image (Buildx, arm64) → push to Docker Hub → SSH deploy
-- Zero-touch redeploys — stops the old container, pulls the latest image, and starts the new one automatically
-- Debugged and resolved real pipeline failures: Docker Hub token scoping, YAML indentation, working-directory mismatches, and a CPU architecture mismatch (x86_64 CI runner vs ARM64 Graviton EC2 instance)
-- Documented end-to-end with architecture diagrams, a full command reference, and a running list of common CI/CD mistakes and fixes
+<br/>
 
----
-
-### 🔐 PRA: Proactive Approach to Secure Backup
-![Google Drive](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Encryption](https://img.shields.io/badge/Encryption-FF6B6B?style=for-the-badge)
-![Automated Backup](https://img.shields.io/badge/Automated_Backup-00C853?style=for-the-badge)
-
-**🎯 Key Features:**
-- Multi-layered encryption  
-- Automated backup scheduling  
-- Optimized recovery protocols  
-- Access control & versioning  
-
----
-
-### 🏨 BookingBlock: Hotel Booking Platform
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe_API-008CDD?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-
-🔗 **GitHub:** https://github.com/Nayeemshaik29/BookingBlock
-
-**🎯 Key Features:**
-- 8 RESTful APIs for hotel reservations, supporting 100+ listings with response times under 150ms
-- Stripe Payment Gateway integration processing 200+ transactions with a 99.5% success rate
-- Decorator Design Pattern for dynamic pricing
-- Optimized Hibernate caching, reducing database calls by 50%  
+| Category | Technologies |
+|:--|:--|
+| ☕ **Languages** | ![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🌱 **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_7-59666C?style=flat-square&logo=hibernate&logoColor=white) ![OpenFeign](https://img.shields.io/badge/OpenFeign-0B7285?style=flat-square) |
+| 🧩 **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-4CAF50?style=flat-square) ![API Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-4285F4?style=flat-square) ![Config Server](https://img.shields.io/badge/Config_Server-6DB33F?style=flat-square) ![Resilience4j](https://img.shields.io/badge/Resilience4j-0B7285?style=flat-square) |
+| 🗄️ **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| 🔐 **Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![BCrypt](https://img.shields.io/badge/BCrypt-555555?style=flat-square) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Defender](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
+| ☁️ **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
-### 🚀 Skillora: Professional Networking Platform (Microservices)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge)
-![Eureka](https://img.shields.io/badge/Service_Discovery-Eureka-4CAF50?style=for-the-badge)
+## 💼 Experience
 
-🔗 **GitHub:** https://github.com/Nayeemshaik29/Skillora  
-🚧 **Status:** Under Process (Kafka integrated, Connections Service in progress)
+### 🏢 Associate Software Engineer · **LTM**
+📅 *Feb 2026 – Present* &nbsp;|&nbsp; 📍 *Hyderabad, Telangana*
 
-**🎯 Key Highlights:**
-- 6 Spring Boot microservices using Spring Cloud Gateway, Netflix Eureka, and JWT, supporting 1,000+ requests/min
-- Apache Kafka event-driven architecture achieving 5,000 events/sec throughput, reducing notification latency from 3s to 500ms
-- Resilience4j Circuit Breaker, Zipkin distributed tracing, and ELK Stack for fault tolerance, monitoring, and centralized logging
-- Database-per-service architecture  
+- 🔧 Develop and maintain backend features and **REST APIs** with **Java and Spring Boot**
+- 💘 Building **SoftLaunch**, a microservices product prototype
+- 🐞 Write SQL, **debug application issues, analyze logs** and troubleshoot
+- 🤝 Take part in **code reviews**, stand-ups and sprint work using Git and Postman
+
+### 🎓 Java Full Stack Trainee · **Student Tribe**
+📅 *Jan 2025 – Oct 2025* &nbsp;|&nbsp; 📍 *Hyderabad, Telangana*
+
+- 🧱 Built backend modules from design to deployment with **Spring Boot, Spring Data JPA, Hibernate and MySQL**
+- 🔐 Developed and tested REST APIs for **authentication, exception handling and layered architecture**
+- ✅ Applied OOP, Git workflows and clean-code standards, and took part in peer code reviews
+
+---
+
+## 🌟 Spotlight: [SoftLaunch](https://github.com/Nayeemshaik29/softlaunch) 💘
+
+> **A cloud-native dating platform built as Spring Boot 4 microservices: sign up, build a rich profile, swipe, match and get notified in real time.**
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2025-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka_4-KRaft-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<a href="https://github.com/Nayeemshaik29/softlaunch"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+### 🏗️ Architecture
+
+```mermaid
+flowchart LR
+    C["📱 Client"] -->|HTTP + JWT| GW["🚪 API Gateway<br/>JWT filter · X-User-Id"]
+    GW --> US["👤 User Service"]
+    GW --> MS["💞 Match Service"]
+    GW --> NS["🔔 Notification Service"]
+    REG["🧭 Eureka"] -.- GW
+    CFG["⚙️ Config Server"] -.- GW
+    US --- UDB[("user_db")]
+    MS --- MDB[("match_db")]
+    MS --- RD[("Redis<br/>swipe quotas")]
+    NS --- NDB[("notification_db")]
+    MS -.->|"OpenFeign + Resilience4j"| US
+    MS -->|match.created| K{{"Kafka (KRaft)"}}
+    K --> NS
+    K -.->|failures| DLT{{"DLT topics"}}
+```
+
+### ⚙️ Engineering Highlights
+
+| Area | What I built | Why it matters |
+|:--|:--|:--|
+| 🔐 **Gateway security** | Global JWT filter that forwards `X-User-Id` and **strips client-supplied headers** | Stops identity spoofing; `/internal/**` routes are never exposed |
+| ⏱️ **Auth hardening** | **Constant-time login** with a dummy hash check for unknown emails | Blocks timing-based user enumeration |
+| 💞 **Race-safe matching** | Matches stored as a **sorted user pair** with a unique DB constraint | A↔B and B↔A can never create duplicate matches |
+| 🚦 **Rate limiting** | **Redis `INCR` + TTL** daily swipe quota | Returns `429` when the quota runs out, and scales across instances |
+| 🛡️ **Fault tolerance** | **OpenFeign + Resilience4j** circuit breaker and time limiter | Match Service keeps working when User Service is slow |
+| 📨 **Event-driven** | Kafka `match.created` events with **idempotent consumers, retries and DLT** | No lost or duplicate notifications |
+| 🧾 **Clean APIs** | **RFC 9457 `ProblemDetail`** errors, Bean Validation, a custom `@Adult` validator | Consistent errors and 18+ enforcement at the edge |
+| 🗃️ **Data ownership** | **Database per service** (PostgreSQL 17) | Services stay independent and deploy separately |
+
+### 🗺️ Roadmap
+
+| Phase | Scope | Status |
+|:--:|:--|:--:|
+| 1 | Eureka, Config Server, API Gateway | ✅ |
+| 2 | User Service: signup/login, BCrypt, JWT, rich profiles | ✅ |
+| 3 | Gateway security: JWT filter, header anti-spoofing | ✅ |
+| 4 | Match Service: swipes, matching, Redis quota, Feign + circuit breaker | ✅ |
+| 5 | Kafka events, Notification Service, idempotency, retries + DLT | ✅ |
+| 6 | Discovery: Redis GEO nearby feed + gRPC | 📋 |
+| 7 | Chat: WebSocket/STOMP, MongoDB, disappearing messages | 📋 |
+| 8 | Verification (18+ KYC mock) and safety (report/block) | 📋 |
+| 9 | Observability: Zipkin, Prometheus, Grafana | 📋 |
+| 10 | AI assistant: openers and scam detection (Ollama + pgvector) | 📋 |
+
+---
+
+## 🏆 More Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [Skillora](https://github.com/Nayeemshaik29/Skillora)
+**Professional networking platform**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka-4CAF50?style=flat-square)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+
+- 🧩 **6 microservices** with Gateway, Eureka and JWT, handling **1,000+ req/min**
+- ⚡ Kafka at **5,000 events/sec**, cutting notification latency from **3s to 500ms**
+- 🔭 **Resilience4j, Zipkin and ELK** for observability
+- 🗃️ Database-per-service design
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 [BookingBlock](https://github.com/Nayeemshaik29/BookingBlock)
+**Hotel booking platform**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+- 🌐 **8 REST APIs** serving **100+ listings** in **under 150ms**
+- 💳 Stripe integration with **200+ transactions** at a **99.5% success rate**
+- 🎨 **Decorator pattern** for dynamic pricing
+- 🧠 Hibernate caching that cuts **DB calls by 50%**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [CI/CD Playground](https://github.com/Nayeemshaik29/ci-cd-playground)
+**Automated Spring Boot deployment**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+
+- 🔁 Goes from `git push` to a **live container on EC2** with no manual steps
+- 🏗️ Maven → **multi-arch Buildx (arm64)** → Docker Hub → SSH deploy
+- 🛠️ Fixed an **x86_64 vs ARM64 Graviton** mismatch and other pipeline bugs
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 [CredResolve](https://github.com/Nayeemshaik29/CredResolve-Assignment)
+**Expense-sharing backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+- 👥 Users, groups and **expense splitting**
+- 🧮 **Balance calculation** across group members
+- 🧱 Clean **layered architecture**
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📚 Learning and reference repos (click to expand)</b></summary>
+<br/>
+
+| Repo | What's inside |
+|:--|:--|
+| 🗃️ [Database-Optimization](https://github.com/Nayeemshaik29/Database-Optimization) | 18 techniques (indexing, partitioning, sharding, replication) with diagrams |
+| 🧠 [Interview-DSA-Playbook](https://github.com/Nayeemshaik29/Interview-DSA-Playbook) | Pattern-based Java DSA prep with dry runs and complexity analysis |
+| 🎨 [Design_Patterns](https://github.com/Nayeemshaik29/Design_Patterns) | Design patterns in Java using real-world scenarios |
+| 📨 [kafka-learning-spring-boot](https://github.com/Nayeemshaik29/kafka-learning-spring-boot) | Kafka producer and consumer exchanging location events |
+| 🧱 [object-oriented-programming](https://github.com/Nayeemshaik29/object-oriented-programming) | OOP guide from beginner to expert, interview-focused |
+
+</details>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+![SC-200](https://img.shields.io/badge/Microsoft-Security_Operations_Analyst_SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![CEH](https://img.shields.io/badge/EC--Council-Certified_Ethical_Hacker-C8102E?style=for-the-badge)
+<br/>
+![SC-900](https://img.shields.io/badge/Microsoft-Security_Compliance_Identity_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AI Business Pro](https://img.shields.io/badge/Microsoft-AI_Business_Professional-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+<br/>
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Dynamic GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayeemshaik29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeemshaik29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeemshaik29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Nayeemshaik29&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayeemshaik29&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nayeemshaik29&bg_color=0d1117&color=ffffff&line=58a6ff&point=6DB33F&area=true&area_color=1f6feb&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayeemshaik29&bg_color=0d1117&color=ffffff&line=58a6ff&point=1f6feb&area=true&area_color=161b22&hide_border=true"/>
+### 🧠 LeetCode
+<img src="https://leetcard.jacoblin.cool/ShaikNayeemBasha?theme=dark&font=Fira%20Code&ext=heatmap" />
 
 </div>
 
 ---
 
-## 📈 Real-time Coding Activity
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 🎯 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/ShaikNayeemBasha?theme=dark&font=Nunito&ext=contest)
+💡 *Open to **Java backend engineering** roles and collaboration on **microservices, event-driven and secure systems**.*
+
+<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bashanayeem79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://discord.gg/nayeem2756"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-![CEH](https://img.shields.io/badge/Certified_Ethical_Hacker-V12-FF6B6B?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge)
-![KL Radio](https://img.shields.io/badge/KL_Radio-Creative_Member-4CAF50?style=for-the-badge)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Associate Software Engineer @ LTM  
-**June 2026 – Present | Hyderabad, Telangana**
-
-- Backend development using Java and Spring Boot, including REST API development and maintenance
-- Worked with SQL databases, debugging application issues, analyzing logs, and troubleshooting
-- Used Git and Postman while participating in code reviews, daily stand-ups, and team collaboration
-- Built and deployed a self-managed CI/CD pipeline (GitHub Actions, Docker, AWS EC2)
-
----
-
-### 💻 Java Full Stack Trainee @ Student Tribe  
-**January 2026 – June 2026 | Hyderabad, Telangana**
-
-- Independently built backend modules using Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL — full ownership from design through deployment
-- Developed and tested RESTful APIs covering authentication, exception handling, and layered service architecture end-to-end
-- Practiced OOP principles, Git-based version control, and clean-code standards, reviewing peer code and joining daily stand-ups
-
----
-
-## 🌟 Soft Skills & Leadership
-
-<div align="center">
-
-![Time Management](https://img.shields.io/badge/Time_Management-Expert-4CAF50?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Advanced-FF9800?style=for-the-badge)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-Professional-2196F3?style=for-the-badge)
-![Leadership](https://img.shields.io/badge/Leadership-Experienced-9C27B0?style=for-the-badge)
-![Decision Making](https://img.shields.io/badge/Decision_Making-Strategic-F44336?style=for-the-badge)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nayeem-shaik29/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://leetcode.com/u/ShaikNayeemBasha/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-<a href="https://discord.gg/nayeem2756">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
-</a>
-<a href="mailto:bashanayeem79@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-📞 **Phone:** +91 8688343878
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-  ### 💫 Thanks for visiting my profile! Let's build something amazing together 🚀
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1f6feb,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%"/>
