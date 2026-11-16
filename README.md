@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="assets/tech-orbit.svg" width="760" alt="Animated orbit of my tech stack: Java, Spring Boot, Kafka, PostgreSQL, Redis, Docker, AWS, JWT, Resilience4j and GitHub Actions"/>
+<img src="assets/card-tools.svg" width="100%" alt="Tools I build with: Java, Spring Boot, Spring Security, Spring Cloud, Hibernate, Maven, Apache Kafka, Redis, PostgreSQL, MySQL, MongoDB, ELK Stack, Docker, AWS, GitHub Actions, Git, GitHub, Linux, JWT, JUnit 5, Postman, Burp Suite, Wireshark and React."/>
 
 <br/><br/>
 
