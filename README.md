@@ -13,7 +13,7 @@
 <a href="https://leetcode.com/u/ShaikNayeemBasha/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1d4ed8?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <img src="https://komarev.com/ghpvc/?username=Nayeemshaik29&color=1f6feb" alt="profile views"/>
 
-<br/><br/>
+<br/>
 
 <sub><a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#experience">Experience</a> · <a href="#softlaunch">SoftLaunch</a> · <a href="#projects">Projects</a> · <a href="#certs">Certifications</a> · <a href="#connect">Connect</a></sub>
 
