@@ -1,25 +1,31 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:6DB33F&height=200&section=header&text=Shaik%20Nayeem%20Basha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Microservices%20%E2%80%A2%20Kafka%20%E2%80%A2%20Security&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/spider-web-banner.svg" width="100%" alt="Spider-web themed banner: Shaik Nayeem Basha, Java backend engineer. Weaving microservices, catching every bug."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+25+and+Spring+Boot+4+Backend+Engineer;Event-Driven+Microservices+with+Kafka;Spring+Cloud+-+Eureka+-+Gateway+-+Resilience4j;Security-First+-+SC-200+and+CEH+Certified;Associate+Software+Engineer+at+LTM" alt="Typing SVG" />
+<img src="assets/hero-roles.svg" width="720" alt="Rotating summary: Java 25 and Spring Boot 4 backend engineer, event-driven microservices with Kafka, Spring Cloud and Resilience4j, security-first with SC-200 and CEH, Associate Software Engineer at LTM"/>
 
 <br/>
 
-<a href="https://nayeem-shaik.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=astro&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bashanayeem79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://nayeem-shaik.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-c1121f?style=for-the-badge&logo=astro&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bashanayeem79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-c1121f?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1d4ed8?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <img src="https://komarev.com/ghpvc/?username=Nayeemshaik29&color=1f6feb" alt="profile views"/>
+
+<br/><br/>
+
+**🟢 Open to Java backend roles** · Hyderabad · Pune · open to relocate
+
+<sub><a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#experience">Experience</a> · <a href="#softlaunch">SoftLaunch</a> · <a href="#projects">Projects</a> · <a href="#certs">Certifications</a> · <a href="#connect">Connect</a></sub>
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 👨‍💻 About Me
+<a id="about"></a>
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 🕷️ About Me
 
 I'm a **Java Backend Engineer** who builds scalable REST APIs and event-driven microservices with **Spring Boot, Spring Cloud and Apache Kafka**. I care about systems that stay **correct under failure**: retries, duplicate messages, slow dependencies and race conditions.
 
@@ -31,13 +37,28 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 - 🎓 **KL University** alumnus
 - 💬 Ask me about: **Spring Boot, Kafka, microservices, API security, CI/CD**
 
-<br clear="right"/>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="210"><h2>3</h2><sub>end-to-end microservice platforms</sub></td>
+<td align="center" width="210"><h2>6</h2><sub>security and cloud certifications</sub></td>
+<td align="center" width="210"><h2>8.85</h2><sub>B.Tech CGPA, KL University</sub></td>
+</tr>
+</table>
+</div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🧰 Tech Stack
+<a id="stack"></a>
+
+## 🕸️ Tech Stack
 
 <div align="center">
+
+<img src="assets/tech-orbit.svg" width="760" alt="Animated orbit of my tech stack: Java, Spring Boot, Kafka, PostgreSQL, Redis, Docker, AWS, JWT, Resilience4j and GitHub Actions"/>
+
+<br/><br/>
+
 
 <table>
   <tr>
@@ -70,18 +91,26 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 <br/>
 
+<details>
+<summary><b>See every technology by category</b></summary>
+<br/>
+
 | Category | Technologies |
 |:--|:--|
-| ☕ **Languages** | ![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🌱 **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_7-59666C?style=flat-square&logo=hibernate&logoColor=white) ![OpenFeign](https://img.shields.io/badge/OpenFeign-0B7285?style=flat-square) |
-| 🧩 **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-4CAF50?style=flat-square) ![API Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-4285F4?style=flat-square) ![Config Server](https://img.shields.io/badge/Config_Server-6DB33F?style=flat-square) ![Resilience4j](https://img.shields.io/badge/Resilience4j-0B7285?style=flat-square) |
-| 🗄️ **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| 🔐 **Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![BCrypt](https://img.shields.io/badge/BCrypt-555555?style=flat-square) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Defender](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
-| ☁️ **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ☕ **Languages** | ![Java](https://img.shields.io/badge/Java_25-c1121f?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-c1121f?style=flat-square&logo=javascript&logoColor=black) |
+| 🌱 **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-1d4ed8?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-c1121f?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-1d4ed8?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_7-c1121f?style=flat-square&logo=hibernate&logoColor=white) ![OpenFeign](https://img.shields.io/badge/OpenFeign-1d4ed8?style=flat-square) |
+| 🧩 **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-c1121f?style=flat-square&logo=apachekafka&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-1d4ed8?style=flat-square) ![API Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-c1121f?style=flat-square) ![Config Server](https://img.shields.io/badge/Config_Server-1d4ed8?style=flat-square) ![Resilience4j](https://img.shields.io/badge/Resilience4j-c1121f?style=flat-square) |
+| 🗄️ **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-c1121f?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-1d4ed8?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-c1121f?style=flat-square&logo=redis&logoColor=white) |
+| 🔐 **Security** | ![JWT](https://img.shields.io/badge/JWT-1d4ed8?style=flat-square&logo=jsonwebtokens&logoColor=white) ![BCrypt](https://img.shields.io/badge/BCrypt-c1121f?style=flat-square) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-1d4ed8?style=flat-square&logo=microsoftazure&logoColor=white) ![Defender](https://img.shields.io/badge/Defender_XDR-c1121f?style=flat-square&logo=microsoft&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1d4ed8?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-c1121f?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1d4ed8?style=flat-square&logo=wireshark&logoColor=white) |
+| ☁️ **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker_Compose-c1121f?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_EC2-1d4ed8?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-c1121f?style=flat-square&logo=githubactions&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-1d4ed8?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-c1121f?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-1d4ed8?style=flat-square&logo=postman&logoColor=white) |
 
----
+</details>
 
-## 💼 Experience
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+<a id="experience"></a>
+
+## 🕷️ Experience
 
 ### 🏢 Associate Software Engineer · **LTM**
 📅 *Feb 2026 – Present* &nbsp;|&nbsp; 📍 *Hyderabad, Telangana*
@@ -98,28 +127,35 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 - 🔐 Developed and tested REST APIs for **authentication, exception handling and layered architecture**
 - ✅ Applied OOP, Git workflows and clean-code standards, and took part in peer code reviews
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🌟 Spotlight: [SoftLaunch](https://github.com/Nayeemshaik29/softlaunch) 💘
+<a id="softlaunch"></a>
+
+## 🕸️ Spotlight: [SoftLaunch](https://github.com/Nayeemshaik29/softlaunch) 💘
 
 > **A cloud-native dating platform built as Spring Boot 4 microservices: sign up, build a rich profile, swipe, match and get notified in real time.**
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2025-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka_4-KRaft-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Java](https://img.shields.io/badge/Java-25-c1121f?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1-1d4ed8?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2025-c1121f?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka_4-KRaft-1d4ed8?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-c1121f?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-1d4ed8?style=for-the-badge&logo=redis&logoColor=white)
 
-<a href="https://github.com/Nayeemshaik29/softlaunch"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Nayeemshaik29/softlaunch"><img alt="View Repository" src="https://img.shields.io/badge/View_Repository-c1121f?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+</div>
+
+<div align="center">
+<img src="assets/softlaunch-progress.svg" width="760" alt="SoftLaunch status: active development, 5 of 10 roadmap phases done. Next: nearby feed, chat, verification, observability, AI assistant."/>
 </div>
 
 ### 🏗️ Architecture
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d1117','primaryBorderColor':'#e63946','primaryTextColor':'#e6edf3','lineColor':'#3b82f6','secondaryColor':'#0d1117','tertiaryColor':'#0d1117','clusterBkg':'#0d1117'}}}%%
 flowchart LR
     C["📱 Client"] -->|HTTP + JWT| GW["🚪 API Gateway<br/>JWT filter · X-User-Id"]
     GW --> US["👤 User Service"]
@@ -150,7 +186,9 @@ flowchart LR
 | 🧾 **Clean APIs** | **RFC 9457 `ProblemDetail`** errors, Bean Validation, a custom `@Adult` validator | Consistent errors and 18+ enforcement at the edge |
 | 🗃️ **Data ownership** | **Database per service** (PostgreSQL 17) | Services stay independent and deploy separately |
 
-### 🗺️ Roadmap
+<details>
+<summary><b>🗺️ Roadmap: 5 of 10 phases done</b></summary>
+<br/>
 
 | Phase | Scope | Status |
 |:--:|:--|:--:|
@@ -165,74 +203,20 @@ flowchart LR
 | 9 | Observability: Zipkin, Prometheus, Grafana | 📋 |
 | 10 | AI assistant: openers and scam detection (Ollama + pgvector) | 📋 |
 
----
+</details>
 
-## 🏆 More Projects
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a id="projects"></a>
 
-### 🚀 [Skillora](https://github.com/Nayeemshaik29/Skillora)
-**Professional networking platform**
+## 🕷️ More Projects
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka-4CAF50?style=flat-square)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-
-- 🧩 **6 microservices** with Gateway, Eureka and JWT, handling **1,000+ req/min**
-- ⚡ Kafka at **5,000 events/sec**, cutting notification latency from **3s to 500ms**
-- 🔭 **Resilience4j, Zipkin and ELK** for observability
-- 🗃️ Database-per-service design
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 [BookingBlock](https://github.com/Nayeemshaik29/BookingBlock)
-**Hotel booking platform**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-- 🌐 **8 REST APIs** serving **100+ listings** in **under 150ms**
-- 💳 Stripe integration with **200+ transactions** at a **99.5% success rate**
-- 🎨 **Decorator pattern** for dynamic pricing
-- 🧠 Hibernate caching that cuts **DB calls by 50%**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ [CI/CD Playground](https://github.com/Nayeemshaik29/ci-cd-playground)
-**Automated Spring Boot deployment**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-
-- 🔁 Goes from `git push` to a **live container on EC2** with no manual steps
-- 🏗️ Maven → **multi-arch Buildx (arm64)** → Docker Hub → SSH deploy
-- 🛠️ Fixed an **x86_64 vs ARM64 Graviton** mismatch and other pipeline bugs
-
-</td>
-<td width="50%" valign="top">
-
-### 💸 [CredResolve](https://github.com/Nayeemshaik29/CredResolve-Assignment)
-**Expense-sharing backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-- 👥 Users, groups and **expense splitting**
-- 🧮 **Balance calculation** across group members
-- 🧱 Clean **layered architecture**
-
-</td>
-</tr>
-</table>
+| Project | What it is | Proof it works |
+|:--|:--|:--|
+| 🚀 **[Skillora](https://github.com/Nayeemshaik29/Skillora)** | Professional networking platform: 6 microservices with Gateway, Eureka and JWT, plus Resilience4j, Zipkin and ELK | Handles **1,000+ req/min**. Kafka at **5,000 events/sec** cut notification latency from **3s to 500ms** |
+| 🏨 **[BookingBlock](https://github.com/Nayeemshaik29/BookingBlock)** | Hotel booking platform on Spring Boot, JPA and Stripe, with a Decorator pattern for dynamic pricing | **8 REST APIs**, **100+ listings** in **under 150ms**, **200+ payments** at **99.5% success**, Hibernate caching cut DB calls by **50%** |
+| ⚙️ **[CI/CD Playground](https://github.com/Nayeemshaik29/ci-cd-playground)** | Automated Spring Boot deployment with GitHub Actions, Docker and AWS EC2 | `git push` goes to a **live container** with no manual steps (Maven, multi-arch Buildx, Docker Hub, SSH deploy) |
+| 💸 **[CredResolve](https://github.com/Nayeemshaik29/CredResolve-Assignment)** | Expense-sharing backend on Spring Boot and PostgreSQL | Groups, expense splitting and **balance calculation** in a clean layered architecture |
 
 <details>
 <summary><b>📚 Learning and reference repos (click to expand)</b></summary>
@@ -248,51 +232,59 @@ flowchart LR
 
 </details>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🏅 Certifications
+<a id="certs"></a>
+
+## 🕸️ Certifications
 
 <div align="center">
 
-![SC-200](https://img.shields.io/badge/Microsoft-Security_Operations_Analyst_SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![CEH](https://img.shields.io/badge/EC--Council-Certified_Ethical_Hacker-C8102E?style=for-the-badge)
+![SC-200](https://img.shields.io/badge/Microsoft-Security_Operations_Analyst_SC--200-1d4ed8?style=for-the-badge&logo=microsoft&logoColor=white)
+![CEH](https://img.shields.io/badge/EC--Council-Certified_Ethical_Hacker-c1121f?style=for-the-badge)
 <br/>
-![SC-900](https://img.shields.io/badge/Microsoft-Security_Compliance_Identity_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AI Business Pro](https://img.shields.io/badge/Microsoft-AI_Business_Professional-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SC-900](https://img.shields.io/badge/Microsoft-Security_Compliance_Identity_SC--900-1d4ed8?style=for-the-badge&logo=microsoft&logoColor=white)
+![AI Business Pro](https://img.shields.io/badge/Microsoft-AI_Business_Professional-c1121f?style=for-the-badge&logo=microsoft&logoColor=white)
 <br/>
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-1d4ed8?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude_Code_101-c1121f?style=for-the-badge)
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 📊 GitHub Activity
+## 🕷️ GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeemshaik29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6"/>
-<img height="165" src="https://streak-stats.demolab.com?user=Nayeemshaik29&theme=tokyonight&hide_border=true&background=0d1117" />
+<img alt="GitHub contribution streak stats" height="165" src="https://streak-stats.demolab.com?user=Nayeemshaik29&hide_border=true&background=0d1117&ring=e63946&fire=3b82f6&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e63946&sideLabels=3b82f6&dates=8b98b3" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nayeemshaik29&bg_color=0d1117&color=ffffff&line=58a6ff&point=6DB33F&area=true&area_color=1f6feb&hide_border=true" />
+<img alt="GitHub contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nayeemshaik29&bg_color=0d1117&color=ffffff&line=e63946&point=3b82f6&area=true&area_color=1d4ed8&hide_border=true" />
 
 ### 🧠 LeetCode
-<img src="https://leetcard.jacoblin.cool/ShaikNayeemBasha?theme=dark&font=Fira%20Code&ext=heatmap" />
+<img alt="LeetCode profile card with solved-problem heatmap" src="https://leetcard.jacoblin.cool/ShaikNayeemBasha?theme=dark&font=Fira%20Code&ext=heatmap" />
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🤝 Let's Connect
+<a id="connect"></a>
+
+## 🕸️ Let's Connect
 
 <div align="center">
 
-💡 *Open to **Java backend engineering** roles and collaboration on **microservices, event-driven and secure systems**.*
+**Open to:** Java backend roles · microservices and event-driven systems · freelance work
 
-<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bashanayeem79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://discord.gg/nayeem2756"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+📬 *The fastest way to reach me is email.*
+
+<a href="https://nayeem-shaik.vercel.app/freelance"><img alt="Freelance services: ATS resumes, LinkedIn makeovers, backend APIs" src="https://img.shields.io/badge/Freelance_services-1d4ed8?style=for-the-badge&logo=astro&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-c1121f?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bashanayeem79@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-c1121f?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://discord.gg/nayeem2756"><img alt="Discord" src="https://img.shields.io/badge/Discord-1d4ed8?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1f6feb,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img alt="Thanks for visiting footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:1d4ed8,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%"/>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" width="800" height="170" role="img" aria-label="SoftLaunch status: active development, 5 of 10 roadmap phases done. Done: registry, config, gateway security, user service, match service, Kafka notifications. Next: nearby feed, chat, verification, observability, AI assistant.">
+<defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#e63946"/><stop offset="1" stop-color="#3b82f6"/></linearGradient></defs>
+<rect x="1" y="1" width="798" height="168" rx="16" fill="#0d1117" stroke="#1d4ed8" stroke-opacity="0.6" stroke-width="2"/>
+<text x="28" y="40" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#e6edf3">SoftLaunch</text>
+<text x="152" y="40" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#8b98b3">Spring Boot 4 microservices · active development</text>
+<text x="772" y="40" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#e63946">5 / 10 phases</text>
+<rect x="28" y="58" width="744" height="14" rx="7" fill="#161b22"/>
+<rect x="28" y="58" width="0" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;372" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/></rect>
+<circle cx="372" cy="65" r="7" fill="#fff"><animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/></circle>
+<text x="28" y="108" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#3b82f6">DONE</text>
+<text x="80" y="108" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#cfd8e8">Registry · Config · Gateway security · User · Match · Kafka notifications</text>
+<text x="28" y="140" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#e63946">NEXT</text>
+<text x="80" y="140" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#cfd8e8">Nearby feed · Chat · Verification · Observability · AI assistant</text>
+</svg>
