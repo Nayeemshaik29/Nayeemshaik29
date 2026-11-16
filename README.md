@@ -39,6 +39,11 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 <div align="center">
 
+<img src="assets/tech-orbit.svg" width="760" alt="Animated orbit of my tech stack: Java, Spring Boot, Kafka, PostgreSQL, Redis, Docker, AWS, JWT, Resilience4j and GitHub Actions"/>
+
+<br/><br/>
+
+
 <table>
   <tr>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
@@ -114,6 +119,11 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 ![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <a href="https://github.com/Nayeemshaik29/softlaunch"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="assets/softlaunch-30s.gif" width="480" alt="SoftLaunch in 30 seconds: how a match notifies two people exactly once"/>
+<br/><sub><i>SoftLaunch in 30 seconds: how a match notifies two people exactly once</i></sub>
 
 </div>
 
