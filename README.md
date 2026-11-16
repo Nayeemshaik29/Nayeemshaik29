@@ -3,7 +3,7 @@
 
 <img src="assets/spider-web-banner.svg" width="100%" alt="Spider-web themed banner: Shaik Nayeem Basha, Java backend engineer. Weaving microservices, catching every bug."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=650&lines=Java+25+and+Spring+Boot+4+Backend+Engineer;Event-Driven+Microservices+with+Kafka;Spring+Cloud+-+Eureka+-+Gateway+-+Resilience4j;Security-First+-+SC-200+and+CEH+Certified;Associate+Software+Engineer+at+LTM" alt="Typing SVG" />
+<img src="assets/hero-roles.svg" width="720" alt="Rotating summary: Java 25 and Spring Boot 4 backend engineer, event-driven microservices with Kafka, Spring Cloud and Resilience4j, security-first with SC-200 and CEH, Associate Software Engineer at LTM"/>
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a id="about"></a>
 
@@ -37,7 +37,17 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 - 🎓 **KL University** alumnus
 - 💬 Ask me about: **Spring Boot, Kafka, microservices, API security, CI/CD**
 
----
+<div align="center">
+<table>
+<tr>
+<td align="center" width="210"><h2>3</h2><sub>end-to-end microservice platforms</sub></td>
+<td align="center" width="210"><h2>6</h2><sub>security and cloud certifications</sub></td>
+<td align="center" width="210"><h2>8.85</h2><sub>B.Tech CGPA, KL University</sub></td>
+</tr>
+</table>
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a id="stack"></a>
 
@@ -96,7 +106,7 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 </details>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a id="experience"></a>
 
@@ -117,7 +127,7 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 - 🔐 Developed and tested REST APIs for **authentication, exception handling and layered architecture**
 - ✅ Applied OOP, Git workflows and clean-code standards, and took part in peer code reviews
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a id="softlaunch"></a>
 
@@ -136,6 +146,10 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 <a href="https://github.com/Nayeemshaik29/softlaunch"><img alt="View Repository" src="https://img.shields.io/badge/View_Repository-c1121f?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+</div>
+
+<div align="center">
+<img src="assets/softlaunch-progress.svg" width="760" alt="SoftLaunch status: active development, 5 of 10 roadmap phases done. Next: nearby feed, chat, verification, observability, AI assistant."/>
 </div>
 
 ### 🏗️ Architecture
@@ -191,7 +205,7 @@ flowchart LR
 
 </details>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a id="projects"></a>
 
@@ -218,7 +232,7 @@ flowchart LR
 
 </details>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a id="certs"></a>
 
@@ -233,10 +247,11 @@ flowchart LR
 ![AI Business Pro](https://img.shields.io/badge/Microsoft-AI_Business_Professional-c1121f?style=for-the-badge&logo=microsoft&logoColor=white)
 <br/>
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-1d4ed8?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude_Code_101-c1121f?style=for-the-badge)
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🕷️ GitHub Activity
 
@@ -251,7 +266,7 @@ flowchart LR
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a id="connect"></a>
 
@@ -259,7 +274,11 @@ flowchart LR
 
 <div align="center">
 
-💡 *Open to **Java backend engineering** roles and collaboration on **microservices, event-driven and secure systems**.*
+**Open to:** Java backend roles · microservices and event-driven systems · freelance work
+
+📬 *The fastest way to reach me is email.*
+
+<a href="https://nayeem-shaik.vercel.app/freelance"><img alt="Freelance services: ATS resumes, LinkedIn makeovers, backend APIs" src="https://img.shields.io/badge/Freelance_services-1d4ed8?style=for-the-badge&logo=astro&logoColor=white"/></a>
 
 <a href="https://www.linkedin.com/in/nayeem-shaik29/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-c1121f?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bashanayeem79@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
