@@ -242,12 +242,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=Nayeemshaik29&hide_border=true&background=0d1117&ring=e63946&fire=3b82f6&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e63946&sideLabels=3b82f6&dates=8b98b3" />
+<img alt="GitHub contribution streak stats" height="165" src="https://streak-stats.demolab.com?user=Nayeemshaik29&hide_border=true&background=0d1117&ring=e63946&fire=3b82f6&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e63946&sideLabels=3b82f6&dates=8b98b3" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nayeemshaik29&bg_color=0d1117&color=ffffff&line=e63946&point=3b82f6&area=true&area_color=1d4ed8&hide_border=true" />
+<img alt="GitHub contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nayeemshaik29&bg_color=0d1117&color=ffffff&line=e63946&point=3b82f6&area=true&area_color=1d4ed8&hide_border=true" />
 
 ### 🧠 LeetCode
-<img src="https://leetcard.jacoblin.cool/ShaikNayeemBasha?theme=dark&font=Fira%20Code&ext=heatmap" />
+<img alt="LeetCode profile card with solved-problem heatmap" src="https://leetcard.jacoblin.cool/ShaikNayeemBasha?theme=dark&font=Fira%20Code&ext=heatmap" />
 
 </div>
 
@@ -268,4 +268,4 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:1d4ed8,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img alt="Thanks for visiting footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:1d4ed8,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%"/>
