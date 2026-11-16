@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="assets/spider-web-banner.svg" width="100%" alt="Spider-web themed banner: Shaik Nayeem Basha, Java backend engineer. Weaving microservices, catching every bug."/>
+<img src="assets/hero-card.svg" width="100%" alt="Shaik Nayeem Basha, Java backend engineer. Weaving microservices, catching every bug. Spring Boot, Kafka, security. Open to Java backend roles in Hyderabad and Pune."/>
 
 <img src="assets/hero-roles.svg" width="720" alt="Rotating summary: Java 25 and Spring Boot 4 backend engineer, event-driven microservices with Kafka, Spring Cloud and Resilience4j, security-first with SC-200 and CEH, Associate Software Engineer at LTM"/>
 
@@ -13,9 +13,7 @@
 <a href="https://leetcode.com/u/ShaikNayeemBasha/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1d4ed8?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <img src="https://komarev.com/ghpvc/?username=Nayeemshaik29&color=1f6feb" alt="profile views"/>
 
-<br/><br/>
-
-**🟢 Open to Java backend roles** · Hyderabad · Pune · open to relocate
+<br/>
 
 <sub><a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#experience">Experience</a> · <a href="#softlaunch">SoftLaunch</a> · <a href="#projects">Projects</a> · <a href="#certs">Certifications</a> · <a href="#connect">Connect</a></sub>
 
@@ -27,24 +25,14 @@
 
 ## 🕷️ About Me
 
-I'm a **Java Backend Engineer** who builds scalable REST APIs and event-driven microservices with **Spring Boot, Spring Cloud and Apache Kafka**. I care about systems that stay **correct under failure**: retries, duplicate messages, slow dependencies and race conditions.
+<div align="center">
+<img src="assets/card-about.svg" width="100%" alt="About: backend engineer with a security mindset. Builds scalable REST APIs and event-driven microservices with Spring Boot, Spring Cloud and Kafka, with SC-200 and CEH background. Associate Software Engineer at LTM in Hyderabad, building SoftLaunch, KL University alumnus. 3 microservice platforms, 6 certifications, 8.85 CGPA."/>
+</div>
 
-With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background, I design backends with security built in, not bolted on.
-
-- 🏢 **Associate Software Engineer** at **LTM**, Hyderabad
-- 💘 Currently building: **SoftLaunch**, a Spring Boot 4 microservices dating platform
-- 🌱 Exploring next: **gRPC, WebSockets, Redis GEO and observability**
-- 🎓 **KL University** alumnus
-- 💬 Ask me about: **Spring Boot, Kafka, microservices, API security, CI/CD**
+<br/>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="210"><h2>3</h2><sub>end-to-end microservice platforms</sub></td>
-<td align="center" width="210"><h2>6</h2><sub>security and cloud certifications</sub></td>
-<td align="center" width="210"><h2>8.85</h2><sub>B.Tech CGPA, KL University</sub></td>
-</tr>
-</table>
+<img src="assets/id-badge-card.svg" width="100%" alt="ID badge for Shaik Nayeem Basha, backend engineer in Hyderabad, cleared with SC-200 and CEH, open to roles. Dashboard: 38 public repositories, 3 microservice platforms, 6 certifications, 6 services in SoftLaunch, plus latest builds and stack by layer."/>
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
@@ -59,52 +47,9 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 <br/><br/>
 
-
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br/><sub><b>Spring Boot</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=hibernate" width="48" alt="Hibernate"/><br/><sub><b>Hibernate</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=maven" width="48" alt="Maven"/><br/><sub><b>Maven</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=kafka" width="48" alt="Apache Kafka"/><br/><sub><b>Apache Kafka</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/><sub><b>React</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/><br/><sub><b>Redis</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/><br/><sub><b>GitHub Actions</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=azure" width="48" alt="Microsoft Azure"/><br/><sub><b>Microsoft Azure</b></sub></td>
-  </tr>
-</table>
+<img src="assets/card-stack.svg" width="100%" alt="Tech stack. Backend: Java, Spring Boot, Spring Cloud, Spring Security, JPA and Hibernate, REST APIs. Messaging and resilience: Apache Kafka, Resilience4j, Eureka, API Gateway, OpenFeign. Data: PostgreSQL, MySQL, MongoDB, Redis. DevOps and observability: Docker, GitHub Actions, AWS EC2, Zipkin, ELK. Security: JWT, BCrypt, Microsoft Sentinel, Burp Suite, Nmap, Wireshark. Testing and tools: JUnit, Mockito, Postman, Maven, Git."/>
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>See every technology by category</b></summary>
-<br/>
-
-| Category | Technologies |
-|:--|:--|
-| ☕ **Languages** | ![Java](https://img.shields.io/badge/Java_25-c1121f?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-c1121f?style=flat-square&logo=javascript&logoColor=black) |
-| 🌱 **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-1d4ed8?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-c1121f?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-1d4ed8?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_7-c1121f?style=flat-square&logo=hibernate&logoColor=white) ![OpenFeign](https://img.shields.io/badge/OpenFeign-1d4ed8?style=flat-square) |
-| 🧩 **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-c1121f?style=flat-square&logo=apachekafka&logoColor=white) ![Eureka](https://img.shields.io/badge/Eureka-1d4ed8?style=flat-square) ![API Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-c1121f?style=flat-square) ![Config Server](https://img.shields.io/badge/Config_Server-1d4ed8?style=flat-square) ![Resilience4j](https://img.shields.io/badge/Resilience4j-c1121f?style=flat-square) |
-| 🗄️ **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-c1121f?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-1d4ed8?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-c1121f?style=flat-square&logo=redis&logoColor=white) |
-| 🔐 **Security** | ![JWT](https://img.shields.io/badge/JWT-1d4ed8?style=flat-square&logo=jsonwebtokens&logoColor=white) ![BCrypt](https://img.shields.io/badge/BCrypt-c1121f?style=flat-square) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-1d4ed8?style=flat-square&logo=microsoftazure&logoColor=white) ![Defender](https://img.shields.io/badge/Defender_XDR-c1121f?style=flat-square&logo=microsoft&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1d4ed8?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-c1121f?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1d4ed8?style=flat-square&logo=wireshark&logoColor=white) |
-| ☁️ **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker_Compose-c1121f?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_EC2-1d4ed8?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-c1121f?style=flat-square&logo=githubactions&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-1d4ed8?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-c1121f?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-1d4ed8?style=flat-square&logo=postman&logoColor=white) |
-
-</details>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -112,20 +57,9 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 ## 🕷️ Experience
 
-### 🏢 Associate Software Engineer · **LTM**
-📅 *Feb 2026 – Present* &nbsp;|&nbsp; 📍 *Hyderabad, Telangana*
-
-- 🔧 Develop and maintain backend features and **REST APIs** with **Java and Spring Boot**
-- 💘 Building **SoftLaunch**, a microservices product prototype
-- 🐞 Write SQL, **debug application issues, analyze logs** and troubleshoot
-- 🤝 Take part in **code reviews**, stand-ups and sprint work using Git and Postman
-
-### 🎓 Java Full Stack Trainee · **Student Tribe**
-📅 *Jan 2025 – Oct 2025* &nbsp;|&nbsp; 📍 *Hyderabad, Telangana*
-
-- 🧱 Built backend modules from design to deployment with **Spring Boot, Spring Data JPA, Hibernate and MySQL**
-- 🔐 Developed and tested REST APIs for **authentication, exception handling and layered architecture**
-- ✅ Applied OOP, Git workflows and clean-code standards, and took part in peer code reviews
+<div align="center">
+<img src="assets/card-experience.svg" width="100%" alt="Experience. Associate Software Engineer at LTM, Hyderabad, February 2026 to present: develops backend features and REST APIs with Java and Spring Boot, builds SoftLaunch, writes SQL and debugs, takes part in code reviews. Java Full Stack Trainee at Student Tribe, Hyderabad, January to October 2025: built backend modules with Spring Boot, JPA, Hibernate and MySQL, developed and tested REST APIs, applied OOP and Git workflows."/>
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -133,23 +67,14 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 ## 🕸️ Spotlight: [SoftLaunch](https://github.com/Nayeemshaik29/softlaunch) 💘
 
-> **A cloud-native dating platform built as Spring Boot 4 microservices: sign up, build a rich profile, swipe, match and get notified in real time.**
-
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-25-c1121f?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1-1d4ed8?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2025-c1121f?style=for-the-badge&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka_4-KRaft-1d4ed8?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-c1121f?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7-1d4ed8?style=for-the-badge&logo=redis&logoColor=white)
-
-<a href="https://github.com/Nayeemshaik29/softlaunch"><img alt="View Repository" src="https://img.shields.io/badge/View_Repository-c1121f?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<a href="https://github.com/Nayeemshaik29/softlaunch"><img src="assets/card-softlaunch.svg" width="100%" alt="Spotlight: SoftLaunch, a cloud-native dating platform built as Spring Boot 4 microservices, in active development, 5 of 10 roadmap phases done. Stack: Java 25, Spring Boot 4.1, Spring Cloud, Kafka 4, PostgreSQL 17, Redis 7. Highlights: gateway security, race-safe matching, reliable events with idempotent consumers, retries and a dead-letter topic."/></a>
 </div>
 
 <div align="center">
-<img src="assets/softlaunch-progress.svg" width="760" alt="SoftLaunch status: active development, 5 of 10 roadmap phases done. Next: nearby feed, chat, verification, observability, AI assistant."/>
+
+<a href="https://github.com/Nayeemshaik29/softlaunch"><img alt="View SoftLaunch repository" src="https://img.shields.io/badge/View_Repository-c1121f?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </div>
 
 ### 🏗️ Architecture
@@ -211,12 +136,18 @@ flowchart LR
 
 ## 🕷️ More Projects
 
-| Project | What it is | Proof it works |
-|:--|:--|:--|
-| 🚀 **[Skillora](https://github.com/Nayeemshaik29/Skillora)** | Professional networking platform: 6 microservices with Gateway, Eureka and JWT, plus Resilience4j, Zipkin and ELK | Handles **1,000+ req/min**. Kafka at **5,000 events/sec** cut notification latency from **3s to 500ms** |
-| 🏨 **[BookingBlock](https://github.com/Nayeemshaik29/BookingBlock)** | Hotel booking platform on Spring Boot, JPA and Stripe, with a Decorator pattern for dynamic pricing | **8 REST APIs**, **100+ listings** in **under 150ms**, **200+ payments** at **99.5% success**, Hibernate caching cut DB calls by **50%** |
-| ⚙️ **[CI/CD Playground](https://github.com/Nayeemshaik29/ci-cd-playground)** | Automated Spring Boot deployment with GitHub Actions, Docker and AWS EC2 | `git push` goes to a **live container** with no manual steps (Maven, multi-arch Buildx, Docker Hub, SSH deploy) |
-| 💸 **[CredResolve](https://github.com/Nayeemshaik29/CredResolve-Assignment)** | Expense-sharing backend on Spring Boot and PostgreSQL | Groups, expense splitting and **balance calculation** in a clean layered architecture |
+<div align="center">
+<img src="assets/card-projects.svg" width="100%" alt="More projects. Skillora: professional networking platform with 6 microservices, handles 1,000+ requests per minute, Kafka at 5,000 events per second cut notification latency from 3 seconds to 500 milliseconds. BookingBlock: hotel booking platform, 8 REST APIs, 100+ listings under 150 ms, 200+ payments at 99.5 percent success. CI/CD Playground: git push to a live container on AWS EC2 with no manual steps. CredResolve: expense-sharing backend with groups, splits and balances."/>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Nayeemshaik29/Skillora"><img alt="Skillora repository" src="https://img.shields.io/badge/Skillora-c1121f?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Nayeemshaik29/BookingBlock"><img alt="BookingBlock repository" src="https://img.shields.io/badge/BookingBlock-1d4ed8?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Nayeemshaik29/ci-cd-playground"><img alt="CI/CD Playground repository" src="https://img.shields.io/badge/CI/CD_Playground-c1121f?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Nayeemshaik29/CredResolve-Assignment"><img alt="CredResolve repository" src="https://img.shields.io/badge/CredResolve-1d4ed8?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 
 <details>
 <summary><b>📚 Learning and reference repos (click to expand)</b></summary>
@@ -239,21 +170,16 @@ flowchart LR
 ## 🕸️ Certifications
 
 <div align="center">
-
-![SC-200](https://img.shields.io/badge/Microsoft-Security_Operations_Analyst_SC--200-1d4ed8?style=for-the-badge&logo=microsoft&logoColor=white)
-![CEH](https://img.shields.io/badge/EC--Council-Certified_Ethical_Hacker-c1121f?style=for-the-badge)
-<br/>
-![SC-900](https://img.shields.io/badge/Microsoft-Security_Compliance_Identity_SC--900-1d4ed8?style=for-the-badge&logo=microsoft&logoColor=white)
-![AI Business Pro](https://img.shields.io/badge/Microsoft-AI_Business_Professional-c1121f?style=for-the-badge&logo=microsoft&logoColor=white)
-<br/>
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-1d4ed8?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude_Code_101-c1121f?style=for-the-badge)
-
+<img src="assets/card-certs.svg" width="100%" alt="Certifications: Microsoft Security Operations Analyst Associate SC-200, EC-Council Certified Ethical Hacker v12, Microsoft SC-900, Microsoft AI Business Professional, AWS Certified Cloud Practitioner, Anthropic Claude Code 101."/>
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🕷️ GitHub Activity
+
+<div align="center">
+<img src="assets/card-activity.svg" width="100%" alt="GitHub activity: streak and contribution graph below."/>
+</div>
 
 <div align="center">
 
@@ -273,10 +199,10 @@ flowchart LR
 ## 🕸️ Let's Connect
 
 <div align="center">
+<a href="https://nayeem-shaik.vercel.app"><img src="assets/card-connect.svg" width="100%" alt="Let&#x27;s connect. Email bashanayeem79@gmail.com, LinkedIn nayeem-shaik29, portfolio nayeem-shaik.vercel.app, LeetCode ShaikNayeemBasha. Open to Java backend roles, microservices and event-driven systems, and freelance work."/></a>
+</div>
 
-**Open to:** Java backend roles · microservices and event-driven systems · freelance work
-
-📬 *The fastest way to reach me is email.*
+<div align="center">
 
 <a href="https://nayeem-shaik.vercel.app/freelance"><img alt="Freelance services: ATS resumes, LinkedIn makeovers, backend APIs" src="https://img.shields.io/badge/Freelance_services-1d4ed8?style=for-the-badge&logo=astro&logoColor=white"/></a>
 
