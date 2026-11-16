@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="assets/spider-web-banner.svg" width="100%" alt="Spider-web themed banner: Shaik Nayeem Basha, Java backend engineer. Weaving microservices, catching every bug."/>
+<img src="assets/hero-card.svg" width="100%" alt="Shaik Nayeem Basha, Java backend engineer. Weaving microservices, catching every bug. Spring Boot, Kafka, security. Open to Java backend roles in Hyderabad and Pune."/>
 
 <img src="assets/hero-roles.svg" width="720" alt="Rotating summary: Java 25 and Spring Boot 4 backend engineer, event-driven microservices with Kafka, Spring Cloud and Resilience4j, security-first with SC-200 and CEH, Associate Software Engineer at LTM"/>
 
@@ -14,8 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=Nayeemshaik29&color=1f6feb" alt="profile views"/>
 
 <br/><br/>
-
-**🟢 Open to Java backend roles** · Hyderabad · Pune · open to relocate
 
 <sub><a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#experience">Experience</a> · <a href="#softlaunch">SoftLaunch</a> · <a href="#projects">Projects</a> · <a href="#certs">Certifications</a> · <a href="#connect">Connect</a></sub>
 
@@ -45,6 +43,10 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 <td align="center" width="210"><h2>8.85</h2><sub>B.Tech CGPA, KL University</sub></td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+<img src="assets/id-badge-card.svg" width="100%" alt="Backend ID badge for Shaik Nayeem Basha, cleared with SC-200 and CEH, open to roles. Dashboard: 38 public repositories, 3 microservice platforms, 6 certifications, 6 services in SoftLaunch, with latest builds and stack by layer."/>
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
