@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="assets/tfi-poster-banner.svg" width="100%" alt="Poster-style banner: Shaik Nayeem Basha, a backend engineering production. Mass backend, class architecture."/>
+<img src="assets/spider-web-banner.svg" width="100%" alt="Spider-web themed banner: Shaik Nayeem Basha, Java backend engineer. Weaving microservices, catching every bug."/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+25+and+Spring+Boot+4+Backend+Engineer;Event-Driven+Microservices+with+Kafka;Spring+Cloud+-+Eureka+-+Gateway+-+Resilience4j;Security-First+-+SC-200+and+CEH+Certified;Associate+Software+Engineer+at+LTM" alt="Typing SVG" />
 
