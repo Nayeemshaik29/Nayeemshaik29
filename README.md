@@ -194,6 +194,17 @@ flowchart LR
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
+<a id="city"></a>
+
+## 🕸️ Contribution City
+
+<div align="center">
+<img src="assets/card-city.svg" width="100%" alt="My contribution city: every commit raises another building, rebuilt automatically every day by a GitHub Action."/>
+<img src="profile-3d-contrib/profile-spider-city.svg" width="100%" alt="3D isometric view of my GitHub contributions over the last year, with a radar of commits, issues, pull requests, reviews and repositories, and my language mix."/>
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
 <a id="connect"></a>
 
 ## 🕸️ Let's Connect
