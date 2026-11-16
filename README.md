@@ -7,19 +7,25 @@
 
 <br/>
 
-<a href="https://nayeem-shaik.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c1121f?style=for-the-badge&logo=astro&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bashanayeem79@gmail.com"><img src="https://img.shields.io/badge/Email-c1121f?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img src="https://img.shields.io/badge/LeetCode-1d4ed8?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://nayeem-shaik.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-c1121f?style=for-the-badge&logo=astro&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bashanayeem79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-c1121f?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1d4ed8?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <img src="https://komarev.com/ghpvc/?username=Nayeemshaik29&color=1f6feb" alt="profile views"/>
+
+<br/><br/>
+
+**🟢 Open to Java backend roles** · Hyderabad · Pune · open to relocate
+
+<sub><a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#experience">Experience</a> · <a href="#softlaunch">SoftLaunch</a> · <a href="#projects">Projects</a> · <a href="#certs">Certifications</a> · <a href="#connect">Connect</a></sub>
 
 </div>
 
 ---
 
-## 🕷️ About Me
+<a id="about"></a>
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 🕷️ About Me
 
 I'm a **Java Backend Engineer** who builds scalable REST APIs and event-driven microservices with **Spring Boot, Spring Cloud and Apache Kafka**. I care about systems that stay **correct under failure**: retries, duplicate messages, slow dependencies and race conditions.
 
@@ -31,9 +37,9 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 - 🎓 **KL University** alumnus
 - 💬 Ask me about: **Spring Boot, Kafka, microservices, API security, CI/CD**
 
-<br clear="right"/>
-
 ---
+
+<a id="stack"></a>
 
 ## 🕸️ Tech Stack
 
@@ -75,6 +81,10 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 <br/>
 
+<details>
+<summary><b>See every technology by category</b></summary>
+<br/>
+
 | Category | Technologies |
 |:--|:--|
 | ☕ **Languages** | ![Java](https://img.shields.io/badge/Java_25-c1121f?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-c1121f?style=flat-square&logo=javascript&logoColor=black) |
@@ -84,7 +94,11 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 | 🔐 **Security** | ![JWT](https://img.shields.io/badge/JWT-1d4ed8?style=flat-square&logo=jsonwebtokens&logoColor=white) ![BCrypt](https://img.shields.io/badge/BCrypt-c1121f?style=flat-square) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-1d4ed8?style=flat-square&logo=microsoftazure&logoColor=white) ![Defender](https://img.shields.io/badge/Defender_XDR-c1121f?style=flat-square&logo=microsoft&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1d4ed8?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-c1121f?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1d4ed8?style=flat-square&logo=wireshark&logoColor=white) |
 | ☁️ **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker_Compose-c1121f?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_EC2-1d4ed8?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-c1121f?style=flat-square&logo=githubactions&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-1d4ed8?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-c1121f?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-1d4ed8?style=flat-square&logo=postman&logoColor=white) |
 
+</details>
+
 ---
+
+<a id="experience"></a>
 
 ## 🕷️ Experience
 
@@ -105,6 +119,8 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 
 ---
 
+<a id="softlaunch"></a>
+
 ## 🕸️ Spotlight: [SoftLaunch](https://github.com/Nayeemshaik29/softlaunch) 💘
 
 > **A cloud-native dating platform built as Spring Boot 4 microservices: sign up, build a rich profile, swipe, match and get notified in real time.**
@@ -118,7 +134,7 @@ With a **Microsoft Security Operations Analyst (SC-200)** and **CEH** background
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-c1121f?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-7-1d4ed8?style=for-the-badge&logo=redis&logoColor=white)
 
-<a href="https://github.com/Nayeemshaik29/softlaunch"><img src="https://img.shields.io/badge/View_Repository-c1121f?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Nayeemshaik29/softlaunch"><img alt="View Repository" src="https://img.shields.io/badge/View_Repository-c1121f?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -156,7 +172,9 @@ flowchart LR
 | 🧾 **Clean APIs** | **RFC 9457 `ProblemDetail`** errors, Bean Validation, a custom `@Adult` validator | Consistent errors and 18+ enforcement at the edge |
 | 🗃️ **Data ownership** | **Database per service** (PostgreSQL 17) | Services stay independent and deploy separately |
 
-### 🗺️ Roadmap
+<details>
+<summary><b>🗺️ Roadmap: 5 of 10 phases done</b></summary>
+<br/>
 
 | Phase | Scope | Status |
 |:--:|:--|:--:|
@@ -171,74 +189,20 @@ flowchart LR
 | 9 | Observability: Zipkin, Prometheus, Grafana | 📋 |
 | 10 | AI assistant: openers and scam detection (Ollama + pgvector) | 📋 |
 
+</details>
+
 ---
+
+<a id="projects"></a>
 
 ## 🕷️ More Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 [Skillora](https://github.com/Nayeemshaik29/Skillora)
-**Professional networking platform**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1d4ed8?style=flat-square&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-c1121f?style=flat-square&logo=apachekafka&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka-1d4ed8?style=flat-square)
-![ELK](https://img.shields.io/badge/ELK_Stack-c1121f?style=flat-square&logo=elastic&logoColor=white)
-
-- 🧩 **6 microservices** with Gateway, Eureka and JWT, handling **1,000+ req/min**
-- ⚡ Kafka at **5,000 events/sec**, cutting notification latency from **3s to 500ms**
-- 🔭 **Resilience4j, Zipkin and ELK** for observability
-- 🗃️ Database-per-service design
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 [BookingBlock](https://github.com/Nayeemshaik29/BookingBlock)
-**Hotel booking platform**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1d4ed8?style=flat-square&logo=springboot&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-c1121f?style=flat-square&logo=stripe&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-1d4ed8?style=flat-square&logo=hibernate&logoColor=white)
-
-- 🌐 **8 REST APIs** serving **100+ listings** in **under 150ms**
-- 💳 Stripe integration with **200+ transactions** at a **99.5% success rate**
-- 🎨 **Decorator pattern** for dynamic pricing
-- 🧠 Hibernate caching that cuts **DB calls by 50%**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ [CI/CD Playground](https://github.com/Nayeemshaik29/ci-cd-playground)
-**Automated Spring Boot deployment**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-c1121f?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1d4ed8?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-c1121f?style=flat-square&logo=amazonec2&logoColor=white)
-
-- 🔁 Goes from `git push` to a **live container on EC2** with no manual steps
-- 🏗️ Maven → **multi-arch Buildx (arm64)** → Docker Hub → SSH deploy
-- 🛠️ Fixed an **x86_64 vs ARM64 Graviton** mismatch and other pipeline bugs
-
-</td>
-<td width="50%" valign="top">
-
-### 💸 [CredResolve](https://github.com/Nayeemshaik29/CredResolve-Assignment)
-**Expense-sharing backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1d4ed8?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c1121f?style=flat-square&logo=postgresql&logoColor=white)
-
-- 👥 Users, groups and **expense splitting**
-- 🧮 **Balance calculation** across group members
-- 🧱 Clean **layered architecture**
-
-</td>
-</tr>
-</table>
+| Project | What it is | Proof it works |
+|:--|:--|:--|
+| 🚀 **[Skillora](https://github.com/Nayeemshaik29/Skillora)** | Professional networking platform: 6 microservices with Gateway, Eureka and JWT, plus Resilience4j, Zipkin and ELK | Handles **1,000+ req/min**. Kafka at **5,000 events/sec** cut notification latency from **3s to 500ms** |
+| 🏨 **[BookingBlock](https://github.com/Nayeemshaik29/BookingBlock)** | Hotel booking platform on Spring Boot, JPA and Stripe, with a Decorator pattern for dynamic pricing | **8 REST APIs**, **100+ listings** in **under 150ms**, **200+ payments** at **99.5% success**, Hibernate caching cut DB calls by **50%** |
+| ⚙️ **[CI/CD Playground](https://github.com/Nayeemshaik29/ci-cd-playground)** | Automated Spring Boot deployment with GitHub Actions, Docker and AWS EC2 | `git push` goes to a **live container** with no manual steps (Maven, multi-arch Buildx, Docker Hub, SSH deploy) |
+| 💸 **[CredResolve](https://github.com/Nayeemshaik29/CredResolve-Assignment)** | Expense-sharing backend on Spring Boot and PostgreSQL | Groups, expense splitting and **balance calculation** in a clean layered architecture |
 
 <details>
 <summary><b>📚 Learning and reference repos (click to expand)</b></summary>
@@ -255,6 +219,8 @@ flowchart LR
 </details>
 
 ---
+
+<a id="certs"></a>
 
 ## 🕸️ Certifications
 
@@ -287,16 +253,18 @@ flowchart LR
 
 ---
 
+<a id="connect"></a>
+
 ## 🕸️ Let's Connect
 
 <div align="center">
 
 💡 *Open to **Java backend engineering** roles and collaboration on **microservices, event-driven and secure systems**.*
 
-<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img src="https://img.shields.io/badge/LinkedIn-c1121f?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bashanayeem79@gmail.com"><img src="https://img.shields.io/badge/Gmail-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img src="https://img.shields.io/badge/LeetCode-c1121f?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://discord.gg/nayeem2756"><img src="https://img.shields.io/badge/Discord-1d4ed8?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nayeem-shaik29/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-c1121f?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bashanayeem79@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShaikNayeemBasha/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-c1121f?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://discord.gg/nayeem2756"><img alt="Discord" src="https://img.shields.io/badge/Discord-1d4ed8?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
