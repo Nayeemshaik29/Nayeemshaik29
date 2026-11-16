@@ -276,7 +276,6 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeemshaik29&layout=compact&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=e6edf3&icon_color=3b82f6&langs_count=6"/>
 <img height="165" src="https://streak-stats.demolab.com?user=Nayeemshaik29&hide_border=true&background=0d1117&ring=e63946&fire=3b82f6&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e63946&sideLabels=3b82f6&dates=8b98b3" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nayeemshaik29&bg_color=0d1117&color=ffffff&line=e63946&point=3b82f6&area=true&area_color=1d4ed8&hide_border=true" />
