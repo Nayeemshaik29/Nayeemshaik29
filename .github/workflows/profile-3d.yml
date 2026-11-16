@@ -1,0 +1,35 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "17 18 * * *" # daily
+  workflow_dispatch: # run manually from the Actions tab
+  push:
+    branches: [main, city-3d]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      # Pinned to the v0.9.3 release commit so the action cannot change underneath us.
+      - uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./.github/profile-3d-settings.json
+      - name: Commit and push generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update 3D contribution city"
+            git push
+          fi
